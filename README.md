@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a **plant growth monitoring project**
-- 🌱 I’m currently learning **DL, TF, data science**
+- 🌱 I’m currently learning **DL, NLP, App development**
 - 🕺 I’m looking to collaborate on **ML projects, web dev**
 - 📫 How to reach me: mail me at: manasha.arun@gmail.com
 - 😄 Pronouns: she/her
